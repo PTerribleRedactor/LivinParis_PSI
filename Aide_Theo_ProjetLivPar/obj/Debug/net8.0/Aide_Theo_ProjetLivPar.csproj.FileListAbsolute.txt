@@ -1,0 +1,17 @@
+C:\Users\hugoa\OneDrive\Desktop\Shared_file\ESILV\Informatique\PSI\etape_2\Aide_Theo_ProjetLivPar\Aide_Theo_ProjetLivPar\bin\Debug\net8.0\Aide_Theo_ProjetLivPar.exe
+C:\Users\hugoa\OneDrive\Desktop\Shared_file\ESILV\Informatique\PSI\etape_2\Aide_Theo_ProjetLivPar\Aide_Theo_ProjetLivPar\bin\Debug\net8.0\Aide_Theo_ProjetLivPar.deps.json
+C:\Users\hugoa\OneDrive\Desktop\Shared_file\ESILV\Informatique\PSI\etape_2\Aide_Theo_ProjetLivPar\Aide_Theo_ProjetLivPar\bin\Debug\net8.0\Aide_Theo_ProjetLivPar.runtimeconfig.json
+C:\Users\hugoa\OneDrive\Desktop\Shared_file\ESILV\Informatique\PSI\etape_2\Aide_Theo_ProjetLivPar\Aide_Theo_ProjetLivPar\bin\Debug\net8.0\Aide_Theo_ProjetLivPar.dll
+C:\Users\hugoa\OneDrive\Desktop\Shared_file\ESILV\Informatique\PSI\etape_2\Aide_Theo_ProjetLivPar\Aide_Theo_ProjetLivPar\bin\Debug\net8.0\Aide_Theo_ProjetLivPar.pdb
+C:\Users\hugoa\OneDrive\Desktop\Shared_file\ESILV\Informatique\PSI\etape_2\Aide_Theo_ProjetLivPar\Aide_Theo_ProjetLivPar\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\hugoa\OneDrive\Desktop\Shared_file\ESILV\Informatique\PSI\etape_2\Aide_Theo_ProjetLivPar\Aide_Theo_ProjetLivPar\obj\Debug\net8.0\Aide_Theo_ProjetLivPar.csproj.AssemblyReference.cache
+C:\Users\hugoa\OneDrive\Desktop\Shared_file\ESILV\Informatique\PSI\etape_2\Aide_Theo_ProjetLivPar\Aide_Theo_ProjetLivPar\obj\Debug\net8.0\Aide_Theo_ProjetLivPar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugoa\OneDrive\Desktop\Shared_file\ESILV\Informatique\PSI\etape_2\Aide_Theo_ProjetLivPar\Aide_Theo_ProjetLivPar\obj\Debug\net8.0\Aide_Theo_ProjetLivPar.AssemblyInfoInputs.cache
+C:\Users\hugoa\OneDrive\Desktop\Shared_file\ESILV\Informatique\PSI\etape_2\Aide_Theo_ProjetLivPar\Aide_Theo_ProjetLivPar\obj\Debug\net8.0\Aide_Theo_ProjetLivPar.AssemblyInfo.cs
+C:\Users\hugoa\OneDrive\Desktop\Shared_file\ESILV\Informatique\PSI\etape_2\Aide_Theo_ProjetLivPar\Aide_Theo_ProjetLivPar\obj\Debug\net8.0\Aide_Theo_ProjetLivPar.csproj.CoreCompileInputs.cache
+C:\Users\hugoa\OneDrive\Desktop\Shared_file\ESILV\Informatique\PSI\etape_2\Aide_Theo_ProjetLivPar\Aide_Theo_ProjetLivPar\obj\Debug\net8.0\Aide_Theo_ProjetLivPar.csproj.CopyComplete
+C:\Users\hugoa\OneDrive\Desktop\Shared_file\ESILV\Informatique\PSI\etape_2\Aide_Theo_ProjetLivPar\Aide_Theo_ProjetLivPar\obj\Debug\net8.0\Aide_Theo_ProjetLivPar.dll
+C:\Users\hugoa\OneDrive\Desktop\Shared_file\ESILV\Informatique\PSI\etape_2\Aide_Theo_ProjetLivPar\Aide_Theo_ProjetLivPar\obj\Debug\net8.0\refint\Aide_Theo_ProjetLivPar.dll
+C:\Users\hugoa\OneDrive\Desktop\Shared_file\ESILV\Informatique\PSI\etape_2\Aide_Theo_ProjetLivPar\Aide_Theo_ProjetLivPar\obj\Debug\net8.0\Aide_Theo_ProjetLivPar.pdb
+C:\Users\hugoa\OneDrive\Desktop\Shared_file\ESILV\Informatique\PSI\etape_2\Aide_Theo_ProjetLivPar\Aide_Theo_ProjetLivPar\obj\Debug\net8.0\Aide_Theo_ProjetLivPar.genruntimeconfig.cache
+C:\Users\hugoa\OneDrive\Desktop\Shared_file\ESILV\Informatique\PSI\etape_2\Aide_Theo_ProjetLivPar\Aide_Theo_ProjetLivPar\obj\Debug\net8.0\ref\Aide_Theo_ProjetLivPar.dll
